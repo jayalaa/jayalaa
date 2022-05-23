@@ -6,7 +6,7 @@ I like to create clones of real applications. You can see them in my featured re
 
 - 🔭 I’m currently working on [Applaudo Studios](https://applaudostudios.com)
 - 💬 Ask me about programming topics
-- 📫 How to reach me: ayalavalencia11@gmail.com
+- 📫 How to reach me: jayala@applaudostudios.com
 - 😄 In my free time I make music, play the drums, take photos, make videos for YouTube, teach students, lover of the gym 💪.
 
 **Languages and Tools:**  
